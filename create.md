@@ -2,7 +2,7 @@
 title: How to Create a Markdown File
 description: A beginner's guide on creating and using Markdown files for documentation and blogging.
 date: 2025-05-17
-tags: [Markdown, Documentation, Vlogging]
+tags: [Markdown, Doc, Vlogging]
 image: https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg
 author:
   name: Om Thakur
