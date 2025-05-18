@@ -6,7 +6,7 @@ tags: [JavaScript, Closures, Functional Programming]
 image: https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg
 author:
   name: Om Thakur
-  avatar: https://example.com/avatar.jpg
+  avatar: https://example.com/avatar.jpg](https://i.pinimg.com/736x/c0/4b/01/c04b017b6b9d1c189e15e6559aeb3ca8.jpg
   github: omthakur
 ---
 
