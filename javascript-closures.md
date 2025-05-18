@@ -10,7 +10,7 @@ author:
   github: omthakur
 ---
 
-# Understanding JavaScript Closures
+# Understanding JavaScript Closures _TEST
 
 Closures are a fundamental concept in JavaScript that every developer must understand.
 
