@@ -1,5 +1,5 @@
 ---
-title: "Inside the World of Hackers: Myth vs. Reality"
+title: Inside the World of Hackers: Myth vs. Reality
 description: An honest look into what it means to be a hacker—separating Hollywood fiction from real-world skill and ethics.
 date: 2025-05-18
 tags: [JavaScript, Closures,TS]
