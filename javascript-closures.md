@@ -1,5 +1,5 @@
 ---
-title: Understanding JavaScript Closures _TEST
+title: Understanding JavaScript Closures
 description: A deep dive into closures in JavaScript and how they power powerful features like data encapsulation and currying.
 date: 2025-05-16
 tags: [JavaScript, Closures,Blogging,TypeScript]
