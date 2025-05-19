@@ -1,5 +1,5 @@
 ---
-title: How to Create a Markdown File
+title: How to Create a Markdown
 description: A beginner's guide on creating and using Markdown files for documentation and blogging.
 date: 2025-05-17
 tags: [Markdown, Doc, Blog]
