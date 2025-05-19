@@ -1,5 +1,5 @@
 ---
-title: Understanding JavaScript Closures
+title: Understanding JavaScript 
 description: A deep dive into closures in JavaScript and how they power powerful features like data encapsulation and currying.
 date: 2025-05-16
 tags: [Blogging,JavaScript]
