@@ -10,7 +10,7 @@ author:
   github: omthakur
 ---
 
-# Inside the World of Hackers: Myth vs. Reality
+# Inside the World of Hackers- Myth vs. Reality
 
 Hacking isn't about hoodies and green terminal screens. It's about curiosity, creativity, and code.
 
