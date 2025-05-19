@@ -10,8 +10,7 @@ author:
   github: omthakur
 ---
 
-# Understanding JavaScript Closures _TEST
-
+# Understanding JavaScript Closures
 Closures are a fundamental concept in JavaScript that every developer must understand.
 
 ## What is a Closure?
