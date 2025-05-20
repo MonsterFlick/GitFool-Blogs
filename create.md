@@ -1,7 +1,7 @@
 ---
 title: How to Create a Markdown
 description: A beginner's guide on creating and using Markdown files for documentation and blogging.
-date: 2025-05-17
+date: 2025-05-18
 tags: [Markdown, Blog]
 image: https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg
 author:
