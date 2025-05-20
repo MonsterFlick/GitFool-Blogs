@@ -2,7 +2,7 @@
 title: Understanding JavaScript Closures
 description: A deep dive into closures in JavaScript and how they power powerful features like data encapsulation and currying.
 date: 2025-05-16
-tags: [Blog,JavaScript,TypeScript,ts]
+tags: [Blog,JavaScript,TypeScript]
 image: https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg
 author:
   name: Om Thakur
