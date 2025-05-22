@@ -1,5 +1,5 @@
 ---
-title: Zen Browser: A New Era of Browsing
+title: Zen Browser A New Era of Browsing
 description: A Firefox-based, open-source browser that's beautifully designed, privacy-focused, and feature-rich.
 date: 2025-05-22
 tags:[zen,browser,firefox,productivity,privacy]
