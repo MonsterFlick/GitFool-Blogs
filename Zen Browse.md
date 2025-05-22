@@ -6,7 +6,7 @@ tags: [zen,browser,firefox,productivity,privacy]
 image: https://zen-browser.app/_astro/ComImage.DV0rTSHO_BBUc2.webp
 author:
   name: Om Thakur
-  avatar: https://ibb.co/6Jgrq7L8
+  avatar: https://i.postimg.cc/PrvF6NSd/IMG20240530141349.jpg
   github: github.com/MonsterFlick
 ---
 
