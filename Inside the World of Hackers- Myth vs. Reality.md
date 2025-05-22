@@ -6,7 +6,7 @@ tags: [HACK,HACKER,code]
 image: https://images.pexels.com/photos/5380647/pexels-photo-5380647.jpeg
 author:
   name: Om Thakur
-  avatar: https://ibb.co/6Jgrq7L8
+  avatar: https://i.postimg.cc/C1ZjFnB1/me.jpg
   github: omthakur
 ---
 
