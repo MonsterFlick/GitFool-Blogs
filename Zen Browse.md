@@ -12,44 +12,62 @@ author:
 
 # Zen Browser: A New Era of Browsing
 
-**The Problem:** The one tool we all use every day but rarely question—**our browser**.  
-Google Chrome dominates, but with it come increasing privacy concerns.  
-
-As someone passionate about open-source projects, I was searching for a browser that was not only rich in features but also respected my privacy. That’s when I discovered **ZEN** —  
-_Beautifully designed, privacy-first, and packed with powerful feature._
+Zen Browser is an open-source browser built on Firefox that aims to deliver a **fast, distraction-free** experience without compromising your privacy. It pitches itself as a “calmer internet” alternative in a market dominated by data-hungry browsers like Chrome. By leveraging the Firefox engine and stripping away unnecessary bloat, Zen helps you stay productive (with features like Workspaces and split-screen) while keeping trackers and telemetry at bay.
 
 ---
 
-## Why I Love ZEN
-
-Zen Browser is built to enhance productivity and help you stay focused. It’s not just another browser—it’s a tool that supports your workflow.
-
-Here are some features that truly stand out:
+## Key Features
 
 - **Workspaces**  
-  Organize tabs into dedicated workspaces for each project. It’s a game-changer for multitaskers and creators.
+  Organize your browsing into separate tab groups based on tasks or projects. Each workspace lives in the sidebar and can even run in separate Firefox containers—perfect for switching between different contexts or accounts.
 
 - **Compact Mode**  
-  A real full-screen experience that minimizes distractions and maximizes screen space. Super clean and immersive.
+  Hide all toolbars and interface elements to create a clean, immersive, full-screen browsing experience. Great for reading, watching content, or staying focused.
 
 - **Glance**  
-  Preview websites without fully opening them—perfect for quick browsing and research.
+  Instantly preview any link in an overlay without leaving your current tab. Just Alt+Click and peek—perfect for skimming articles or quick lookups.
 
 - **Split View**  
-  Read an article while watching your favorite YouTuber side-by-side. It’s multitasking made simple.
+  Tile multiple websites side-by-side in the same window. Ideal for research, coding with docs open, or watching videos while multitasking.
 
 ---
 
-## Things to Consider Before Switching to ZEN
+## Zen Browser vs Chrome & Firefox
 
-I've been using Zen for a few months now, and honestly, I don’t see any major downsides. That said, here are a couple of points to keep in mind:
-
-- The experience is quite different from traditional browsers—it may take some getting used to.
-- Zen is still in **beta**, so you might encounter the occasional bug or missing feature.
+| Feature           | Zen Browser                                                 | Google Chrome                                | Mozilla Firefox                            |
+|------------------|-------------------------------------------------------------|----------------------------------------------|--------------------------------------------|
+| **Privacy**       | Strong by default: tracking protection, no telemetry       | Weak defaults, heavy integration with Google | Strong (configurable), some telemetry      |
+| **Performance**   | Fast and optimized with PGO/LTO                            | Fastest engine (V8), heavy resource usage    | Solid performance with Quantum engine      |
+| **UI/UX**         | Minimalist, sidebar tabs, immersive focus modes            | Familiar UI, feature-rich, often cluttered   | Customizable, classic top-tab layout       |
+| **Extensions**    | Firefox-compatible (WebExtensions)                         | Huge library, moving to Manifest V3          | Smaller library, still WebExtension-based  |
+| **Resource Usage**| Lighter than Chrome, moderate memory usage                 | High memory footprint                        | Generally efficient, multi-process         |
 
 ---
 
-**Ready to try something better?**  
-👉 [Download Zen Browser](https://zen-browser.app/)
+**⚠️ Tech Alert: We’re diving into nerdy stuff. Skip ahead if you’re just here for vibes.**
 
-Trust me—once you experience Zen, there’s no going back.
+## Under the Hood
+
+Zen is based on Firefox, meaning it inherits all its latest features, performance improvements, and security updates. It tracks Firefox updates closely—most new versions are merged within days.
+
+Zen builds are compiled with **PGO (Profile-Guided Optimization)** and **LTO (Link-Time Optimization)** for extra speed. The team previously offered AVX2-optimized versions but found modern compilers made those unnecessary.
+
+On the privacy side:
+
+- **HTTPS-Only Mode** is enabled
+- **Tracking Protection** is on by default
+- **OCSP** checks and phishing protection are active
+- **No telemetry** is sent back to Mozilla or Zen
+
+All tweaks are open-source and customizable via the browser’s internal config or files.
+
+And yes—it’s **still in beta**, so some quirks or bugs may exist. But updates are frequent, and the roadmap is transparent.
+
+---
+
+## Final Thoughts
+
+Zen Browser is a serious alternative for users who care about performance, privacy, and productivity. Whether you’re tired of Chrome’s bloat or want a sleeker, faster take on Firefox, Zen offers a refreshing browsing experience that puts you back in control.
+
+**👉 [Download Zen Browser](https://zen-browser.app/)**  
+Give it a try—you might not look back.
