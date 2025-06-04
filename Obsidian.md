@@ -3,7 +3,7 @@ title: Obsidian- Sharpen Your Thinking with a Local-First Knowledge Base
 description: A personal knowledge management app that turns your notes into a connected web of ideas.
 date: 2025-06-04
 tags: [obsidian,markdown,note-taking,personal-knowledge-base,productivity]
-image: https://upload.wikimedia.org/wikipedia/commons/7/7e/Obsidian_icon.svg
+image: https://obsidian.md/images/screenshot-1.0-hero-combo.png
 author:
   name: Om Thakur
   avatar: https://i.postimg.cc/PrvF6NSd/IMG20240530141349.jpg
