@@ -3,7 +3,7 @@ title: Atlas OS A Lightweight, Open-Source Windows Mod
 description: An open-source modification of Windows focused on performance, debloating, and user control.
 date: 2025-05-31
 tags: [atlas,windows,opensource,performance,lightweight]
-image: https://gcore.jsdelivr.net/gh/Atlas-OS/branding@main/wallpapers/16_9/v0.4/v1/16_9-v0.4-v1.png
+image: https://github.com/Atlas-OS/branding/blob/main/wallpapers/v0.4/rev-1/wallpaper-v0.4-rev1.1-16_9.png?raw=true
 author:
   name: Om Thakur
   github: github.com/MonsterFlick
