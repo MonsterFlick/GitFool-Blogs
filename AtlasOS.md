@@ -6,7 +6,6 @@ tags: [atlas,windows,opensource,performance,lightweight]
 image: https://gcore.jsdelivr.net/gh/Atlas-OS/branding@main/wallpapers/16_9/v0.4/v1/16_9-v0.4-v1.png
 author:
   name: Om Thakur
-  avatar: https://i.postimg.cc/PrvF6NSd/IMG20240530141349.jpg
   github: github.com/MonsterFlick
 ---
 
