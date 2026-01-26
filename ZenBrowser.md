@@ -1,15 +1,14 @@
 ---
-
 title: "Zen Browser - A New Era of Browsing"
 description: "Zen Browser is a Firefox-based open source browser focused on privacy, productivity, and a clean distraction-free browsing experience."
 date: "2026-01-26"
 tags: ["browser", "firefox", "privacy", "productivity", "opensource"]
-image: "[https://zen-browser.app/_astro/ComImage.DV0rTSHO_BBUc2.webp](https://zen-browser.app/_astro/ComImage.DV0rTSHO_BBUc2.webp)"
+image: "https://zen-browser.app/_astro/ComImage.DV0rTSHO_BBUc2.webp"
 author:
-name: "Om Thakur"
-github: "MonsterFlick"
-website: "[https://omthakur.in](https://omthakur.in)"
------------------------------------------------------
+  name: "Om Thakur"
+  github: "MonsterFlick"
+---
+
 
 # Zen Browser - A New Era of Browsing
 
