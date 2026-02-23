@@ -3,7 +3,7 @@ title: "Zen Browser - A New Era of Browsing"
 description: "Zen Browser is a Firefox-based open source browser focused on privacy, productivity, and a clean distraction-free browsing experience."
 date: "2026-01-26"
 tags: ["browser", "firefox", "privacy", "productivity", "opensource"]
-image: "https://zen-browser.app/_astro/ComImage.DV0rTSHO_BBUc2.webp"
+image: "https://zen-browser.app/media/hero-video/video.webm"
 author:
   name: "Om Thakur"
   github: "MonsterFlick"
